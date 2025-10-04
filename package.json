@@ -28,7 +28,7 @@
   "dependencies": {
     "@coder/logger": "^1.1.8",
     "@coder/node-browser": "^1.0.5",
-    "@coder/requirefs": "^1.0.6",
+    "@coder/requirefs": "^1.1.5",
     "httpolyglot": "^0.1.2",
     "pem": "^1.14.2",
     "safe-compare": "^1.1.4",
